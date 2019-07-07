@@ -49,7 +49,7 @@ runscript from 'ABSOULTE_PATH_TO_THE_DBSCRIPT.SQL_FILE'
 
 ### For MySQL download the script from here:
 
-<a href="https://github.com/shubhambalyan/hibernate-with-spring/blob/master/resources/database/MySQL_Northwind.sql" target="_blank">MySQL_Northwind.sql (SQL file)</a>
+<a href="https://github.com/shubhambalyan/hibernate-with-spring/blob/master/resources/database/MySQL_Northwind.zip" target="_blank">MySQL_Northwind.sql (SQL file)</a>
 
 
 The tables and relationships among the same is explained here:
