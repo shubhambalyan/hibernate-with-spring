@@ -33,7 +33,7 @@ webSSL=false
 
 Click the **Connect** button.
 
-<img src="./resources/images/h2-client-display.png" width="90%">
+<img src="./resources/images/h2-client-display.PNG" width="90%">
 
 
 ### Download the database script from here:
